@@ -1,0 +1,16 @@
+{
+  "name": "two-good-co-website",
+  "version": "1.0.0",
+  "description": "Two Good Co website with clean URLs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": ["website", "static", "clean-urls"],
+  "author": "",
+  "license": "MIT"
+}
